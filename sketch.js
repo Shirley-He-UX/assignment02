@@ -27,4 +27,3 @@ function draw() {
     noLoop();
   }
 }
-
